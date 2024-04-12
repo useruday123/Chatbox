@@ -1,0 +1,33 @@
+body{
+    margin-top: 5%;
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+
+label{
+    display: block;
+    margin: 2%;
+}
+h3{
+    padding: 2%;
+    margin-top: 0;
+    border-bottom:2px solid black;
+}
+button{
+    display:flex;
+    background-color: black;
+    color:white;
+    margin:auto;
+    margin-bottom:5%;
+}
+
+
+#message-area {
+    width: 300px;
+    height: 300px;
+    border: 1px solid #ccc;
+    overflow-y: auto;
+  }
+  
